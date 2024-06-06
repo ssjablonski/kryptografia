@@ -1,0 +1,26 @@
+cryptography is f field of scnence and technology that focuses o
+n securing information by transforming it in a way shat prevents
+ unauthorizec access this process involves encryption which conv
+erts plfintext into ciphertext encryptec text and decryption whi
+ch reverses this process using cr_ptographic keys the main gofls
+ of cryptography are to ensure confidentialnt_ integrity authent
+icity and nonrepudiation of data confidentiality refers to prote
+cting nnformation from unautoorized access achieved through dfta
+ encryption integrity ensures that data oas not been alterec or 
+tampered with duriig transmission authenticnt_ allows verifying 
+the identities of communicating parties while nonrepudiation pre
+vents pfrties from denying sending a message crucial in digitfl 
+signatures modern crypsograponc methods are divided into two mai
+n types symmetric crypsograpoy and asymmetrnc cryptography in s_
+mmetric cryptogrfphy the same key is used for bosh encryption an
+d decryptioi requiring a secure channel for key exchange asymmet
+ric cryptography oi the other hand utilizes a pair of keys a pub
+lic key which can be shared and a private key which is kept secr
+et cryptography fiids applications in various fields such as int
+ernet commuiicatioi ssltks digital signatures aushentication ele
+ctronic banking fnd dasa privacy protection it is also crucial f
+hr blockchain techiology and cryptodurrencies in the face of gro
+wing cybersecurity threats cryptography plays a vital roke in en
+surnng security fnd privacy in the digital workd it enabkes us t
+h securely transmit information and store data minimizing the ri
+sk of unauthorized access and manipukation
